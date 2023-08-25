@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, nodejs realated to web development**
 
-- 📫 How to reach me **piyushshukl_@outlook.com**
+- 📫 How to reach me **piyushshukla_@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
